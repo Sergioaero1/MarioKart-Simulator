@@ -1,4 +1,5 @@
-<h1>Desafio de projeto do Sergioaero: Mario Kart.JS</h1>
+<h1>Desafio de projeto do Sergioaero: Mario Kart.JS  <a href="https://www.dio.me/en">DIO!</a> </h1> 
+
 
   <table>
         <tr>
@@ -101,3 +102,6 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+
+Professor: <a href="https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart">Felipe Aguiar Code</a> 

@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Sergioaero: Mario Kart.JS  <a href="https://www.dio.me/en">DIO!</a> </h1> 
+<h1>Desafio de projeto do Sergioaero: 🕹️ Mario Kart.JS 🎮 <a href="https://www.dio.me/en">DIO!</a> </h1> 
 
 
   <table>
